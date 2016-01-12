@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="Заметки">
+   <recordtable>
+    <record dir="0000000001" url="" tags="MyTetra, Qt" author="Xintrea" ctime="20081210124656" id="1" name="Welcome to MyTetra!" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="3767" name="Сервисы"/>
+  <node id="3768" name="Процессы"/>
+ </content>
+</root>
